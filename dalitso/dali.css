@@ -1,0 +1,69 @@
+
+
+#navigation{
+	text-align: center;
+background-color: blue;
+color: white;
+
+}
+#navigation a{
+	color: white;
+	padding-left: 8px;
+	text-decoration: none;
+
+}
+
+#navigation a:hover{
+	color: aqua;
+	border: 2px,2px
+	
+}
+
+#content{
+	background-color: red;
+}
+
+img {
+	border-radius: 30px;
+	height: 150px;
+	width: 150px;
+}
+#footer{ 
+text-align: center;
+padding-top: 12px
+
+ }
+
+ #footer p{
+ 	color:blue;
+ }
+#phone{
+	margin-top: 2em;
+	box-sizing: border-box;
+	border-color: green;
+	border-radius: 30px;
+	border-style: solid;
+	text-align: center;
+}
+
+#email{
+	margin-top: 2em;
+	box-sizing: border-box;
+	border-color: yellow;
+	border-radius: 30px;
+	border-style: solid;
+	text-align: center;
+}
+
+#postoffice{
+	margin-top: 2em;
+	box-sizing: border-box;
+	border-color: red;
+	border-radius: 30px;
+	border-style: solid;
+	text-align: center;
+}
+
+.spacing{
+	padding-top: 15px;
+}
